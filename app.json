@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "daily_scheduler",
+    "slug": "daily_scheduler",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#f4f3ff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#f4f3ff"
+      },
+      "package": "com.ayoub_b1.daily_scheduler"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "assetBundlePatterns": [
+      "assets/fonts/*"
+    ],
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5a070ce6-45ed-4753-84e9-c7fc459a6ec2"
+      }
+    },
+    "owner": "ayoub_b1"
+  }
+}

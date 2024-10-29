@@ -1,0 +1,35 @@
+{   
+    "title": "Daily Scheduler",
+    "hello": "Hello",
+    "welcome_message": "Welcome to my app!",
+    "Select_station" : "Select Station",
+    "chose_depart": "Chose Depart Station",
+    "chose_arrive": "Chose Arrive Station",
+    "loading":"loading...",
+    "station":"Stations",
+    "chose_date": "Chose Date",
+    "depart": "depart",
+    "chose_time": "Chose Time",
+    "search": "Search",
+    "result": "Result",
+    "depart_station": "Depart Station",
+    "arrive_station": "Arrive Station",
+    "date": "Date",
+    "time": "Time",
+    "price": "Price",
+    "delete" : "Delete Data",
+    "changeStation" : "Change Station",
+    "arrive": "arrive",
+    "language": "Language",
+    "Settings":"Settings",
+    "selected": "Selected",
+    "Change": "Change",
+    "del": "Delete",
+    "Select_lang": "Select Language",
+    "deletion": "Are you sure you want to reset all the data?",
+    "cancel":"Cancel",
+    "yes": "Yes"
+    
+    
+  }
+  
