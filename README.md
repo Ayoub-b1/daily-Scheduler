@@ -18,7 +18,7 @@ The Train Scheduler App is a convenient and user-friendly application designed f
   <img src="./AppScreenShots/onBoarding1.jpg" alt="OnBoarding" width="200px">
   <img src="./AppScreenShots/onBoarding2.jpg" alt="OnBoarding2" width="200px">
   <img src="./AppScreenShots/onBoarding2.jpg" alt="OnBoarding3" width="200px">
-</p>20### 20me and Settings Screens
+</p>Home and Settings Screens
 <p float="left">
   <img src="./AppScreenShots/main.jpg" alt="Home Screen" width="200px">
   <img src="./AppScreenShots/Settings.jpg" alt="Settings" width="200px">
