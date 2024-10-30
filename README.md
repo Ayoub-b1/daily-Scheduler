@@ -1,6 +1,3 @@
-Here’s the README text formatted for you to copy directly:
-
----
 
 # Train Scheduler App
 
@@ -86,6 +83,4 @@ This project is licensed under the MIT License.
 
 For questions or feedback, please reach out via email at yourname@example.com.
 
---- 
 
-Let me know if there’s anything else you’d like added or changed!
